@@ -1,4 +1,5 @@
 pragma solidity ^0.8.0;
+// Write a contract that has two functions which accept two variables each(They are variables, you can name them anything), compute the keccak256 hashes of these[4] variables and write another function that outputs the two hashes at once...Note that you are submitting the contract file github link
 
 contract hash{
     bytes32 hash1;
