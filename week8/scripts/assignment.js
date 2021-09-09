@@ -23,7 +23,6 @@ async function main() {
   //console.log(deployedBank) //lists all functions call and addresses
 const getUser = await deployedBank.createUser("Eniola Agboola", 1);
 const viewUser = await deployedBank.viewUser(1);
-const deposit = await deployedBank.Deposit(700)
 //console.log(getUser)
 console.log(deposit)
 

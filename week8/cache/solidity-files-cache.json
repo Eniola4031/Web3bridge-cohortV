@@ -1,42 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/eniolaagboola/Documents/START/Web3bridge-cohortV/week8/contracts/assignment.sol": {
-      "lastModificationDate": 1631146937744,
-      "contentHash": "a20cdbb88b0fbee94f9e34813a6d3724",
-      "sourceName": "contracts/assignment.sol",
-      "solcConfig": {
-        "version": "0.8.4",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        ">=0.7.0 <0.9.0"
-      ],
-      "artifacts": [
-        "SmartBankAccount"
-      ]
-    },
-    "/Users/eniolaagboola/Documents/START/Web3bridge-cohortV/week8/contracts/Greeter.sol": {
-      "lastModificationDate": 1631099353970,
+    "/Users/eniolaagboola/Documents/START/etherjs/mainnettest/contracts/Greeter.sol": {
+      "lastModificationDate": 1631043552877,
       "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
@@ -71,8 +37,8 @@
         "Greeter"
       ]
     },
-    "/Users/eniolaagboola/Documents/START/Web3bridge-cohortV/week8/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1631099529580,
+    "/Users/eniolaagboola/Documents/START/etherjs/mainnettest/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1631043639138,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
