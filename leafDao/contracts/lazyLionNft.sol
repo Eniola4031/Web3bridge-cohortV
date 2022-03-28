@@ -4,8 +4,8 @@ pragma solidity ^0.7.0;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
-// import "@openzeppelin/contracts/utils/EnumerableMap.sol";
-// import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
+import "@openzeppelin/contracts/utils/EnumerableMap.sol";
+import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
 
  
 contract LazyLions is ERC721, Ownable {
